@@ -10,9 +10,9 @@
 
 C# - This is the development language I have spent the most time in, and indeed the most readable of the languages. 
 
-Powershell - A friend of sysadmins, and a pain point for those used to strongly typed environments. 
+Powershell - A friend of sysadmins, and occasionally frustrating for those used to strongly typed environments 
 
-Python - The do it all toolkit. The private projects are really cool, maybe you'll touch them some day.
+Python - The do it all toolkit. The private projects are really cool, maybe we'll public them someday
 
 BASH - Sometimes you need it. What else is there to say.
 
